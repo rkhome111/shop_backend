@@ -1,0 +1,7 @@
+applications:
+- name: shop
+  memory: 1G 
+  instances: 1
+  path: ./shop/target/dabek-deploy-0.0.1-SNAPSHOT.jar
+ 
+
